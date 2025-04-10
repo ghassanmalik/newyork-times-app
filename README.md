@@ -2,8 +2,6 @@
 
 A modern React app to explore the **New York Times Most Popular Articles**, built with a clean master-detail layout, Zustand state management, and Tailwind styling.
 
----
-
 ## Tech Stack
 
 - **React** – Component-based UI rendering  
@@ -13,8 +11,6 @@ A modern React app to explore the **New York Times Most Popular Articles**, buil
 - **Shadcn** – Modern UI components   
 - **Jest** – Unit/UI testing  
 - **NYT Most Popular API** – Article data source
-
----
 
 ## Architecture & Code Structure
 
@@ -33,7 +29,6 @@ A modern React app to explore the **New York Times Most Popular Articles**, buil
 - **Routing**
   - Query param-based navigation (`?id=...`)
 
----
 
 ## Engineering Practices
 
@@ -74,7 +69,6 @@ A modern React app to explore the **New York Times Most Popular Articles**, buil
   - Descriptive class names
   - Inline styles encapsulated in variables
 
----
 
 ## Testing Strategy
 
@@ -89,7 +83,6 @@ A modern React app to explore the **New York Times Most Popular Articles**, buil
   - Keywords
   - Source
 
----
 
 ## Performance & UX
 
@@ -98,7 +91,6 @@ A modern React app to explore the **New York Times Most Popular Articles**, buil
 - Refresh-safe navigation via `localStorage`
 - Keyword badges as interactive pills (future enhancements)
 
----
 
 ## Getting Started
 
