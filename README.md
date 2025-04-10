@@ -100,6 +100,9 @@ A modern React app to explore the **New York Times Most Popular Articles**, buil
 
 ---
 
+## 🚀 Getting Started
+
+bash
 # Clone the repository
 git clone git@github.com:ghassanmalik/newyork-times-app.git
 cd newyork-times-app
