@@ -1,4 +1,4 @@
-# 📰 NYT Most Popular Articles Viewer
+# NYT Most Popular Articles Viewer
 
 A modern React app to explore the **New York Times Most Popular Articles**, built with a clean master-detail layout, Zustand state management, and Tailwind styling.
 
@@ -100,9 +100,9 @@ A modern React app to explore the **New York Times Most Popular Articles**, buil
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
-bash
+```bash
 # Clone the repository
 git clone git@github.com:ghassanmalik/newyork-times-app.git
 cd newyork-times-app
