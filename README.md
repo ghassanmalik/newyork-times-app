@@ -10,7 +10,7 @@ A modern React app to explore the **New York Times Most Popular Articles**, buil
 - **React Router DOM** – Navigation (master/detail pattern)  
 - **Tailwind CSS** – Utility-first styling  
 - **Zustand** – Global state management with data persistence  
-- **Shadcn** – Modern ui components   
+- **Shadcn** – Modern UI components   
 - **Jest** – Unit/UI testing  
 - **NYT Most Popular API** – Article data source
 
