@@ -103,7 +103,7 @@ A modern React app to explore the **New York Times Most Popular Articles**, buil
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/nyt-most-popular-viewer.git
+git clone git@github.com:ghassanmalik/newyork-times-app.git
 cd newyork-times-app
 
 # Install dependencies
