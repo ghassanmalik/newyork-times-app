@@ -27,7 +27,7 @@ A modern React app to explore the **New York Times Most Popular Articles**, buil
   - LocalStorage fallback for refresh recovery
 
 - **Routing**
-  - Query param-based navigation (`?id=...`)
+  - Query param-based navigation (`?uri=...`)
 
 
 ## Engineering Practices
