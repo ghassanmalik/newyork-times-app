@@ -4,7 +4,7 @@ A modern React app to explore the **New York Times Most Popular Articles**, buil
 
 ---
 
-## 🧰 Tech Stack
+## Tech Stack
 
 - **React** – Component-based UI rendering  
 - **React Router DOM** – Navigation (master/detail pattern)  
@@ -16,7 +16,7 @@ A modern React app to explore the **New York Times Most Popular Articles**, buil
 
 ---
 
-## 🏗 Architecture & Code Structure
+## Architecture & Code Structure
 
 - **Pages**
   - `Home` – Master list of articles
@@ -35,7 +35,7 @@ A modern React app to explore the **New York Times Most Popular Articles**, buil
 
 ---
 
-## 🧠 Engineering Practices
+## Engineering Practices
 
 ### SOLID Principles
 
@@ -76,13 +76,13 @@ A modern React app to explore the **New York Times Most Popular Articles**, buil
 
 ---
 
-## 🧪 Testing Strategy
+## Testing Strategy
 
 - **Tool:** Jest  
 - **Mocked:** Zustand store and query logic  
 - **Tested:**
-  - ✅ Happy Path (valid URI and selected article)
-  - ✅ Fallback Path (no state → "Article not found")  
+  - Happy Path (valid URI and selected article)
+  - Fallback Path (no state → "Article not found")  
 - **Assertions:**
   - Title
   - Image
@@ -91,7 +91,7 @@ A modern React app to explore the **New York Times Most Popular Articles**, buil
 
 ---
 
-## ⚡ Performance & UX
+## Performance & UX
 
 - Mobile-first responsive design via Tailwind
 - Smooth image transitions
